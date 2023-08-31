@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="1000px" height="600" class="rounded float-start pe-4" src="../img/difficulty/e10abanner.png">
+<img width="1000px" height="400" class="rounded float-start pe-4" src="../img/difficulty/e10abanner.png">
 
 ## Shaking off the dust
 
