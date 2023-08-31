@@ -6,7 +6,8 @@ title: "A fresh take on Javascript"
 date: 2023-08-29
 published: true
 labels:
-  - Engineering
+  - Coding
+  - Learning
 ---
 
 <img width="1000px" class="rounded float-start pe-4" src="../img/difficulty/e10abanner.png">
