@@ -6,7 +6,7 @@
     "email": "omarz@hawaii.edu",
     "phone": "",
     "website": "https://OmarZaidi.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "I am pursuing a B.S. in Computer Science with a minor in Philosphy at the University of Hawaii Manoa.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "OmarZaidi", "url": "http://github.com/OmarZaidi" },
@@ -16,28 +16,29 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Technology Ethics" },
+    { "name": "Cyber security" },
+    { "name": "Education" },
+    { "name": "Mechanincs" },
+    { "name": "Sound engineering & Live sound" },
+    { "name": "IT/Devops"}
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C++", "Java", "Javascript", "Assembly", "Common Lisp", "Prolog", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Windows", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022-08-024",
       "endDate": "Present",
       "courses": [
       ]
