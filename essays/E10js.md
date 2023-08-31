@@ -9,19 +9,14 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/e10abanner.png">
-
-*Shaking off the dust*
+<img width="400px" class="rounded float-start pe-4" src="../img/difficulty/e10abanner.png">
 
 ## In the context of programming
 
+*Shaking off the dust*
+
+
+
 Lorem Ipsum
 
-## In the context of engineering
 
-Lorem Ipsum
-
-
-## Closing
-
-lorem ipsum
