@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "E10 Reflection"
 # All dates must be YYYY-MM-DD format!
-date: 2023-08-030
+date: 2023-08-23
 published: true
 labels:
   - Engineering
