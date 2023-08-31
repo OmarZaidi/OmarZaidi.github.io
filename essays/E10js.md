@@ -19,6 +19,8 @@ Javascript has been enjoyable this past week, in fact,  it was the first languag
 ## WOD's
 I found the concept of athletic programming to be a great idea. Despite it causing stress and anxiety, it creates an incentive as well as simulating some possible real world scenarios where time is crucial. It challenges coding ability on a lot of different levels, problem solving, implementation, stress management, and even your typing chops! As long as I continue practicing the WODs I feel I should have a good opportunity to succeed and learn. 
 
+## Farewell week 2
+Overall, the rollercoaster known as week 1 & 2 exposed us to a lot of new methods for learning and plenty more tools. It can be easy to get overwhelmed by moments such as these. The silver lining is that all of this is not meant for us to fail, instead, we have a team behind us helping us to succeed. 
 
 Thanks for reading!
 
