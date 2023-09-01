@@ -11,7 +11,7 @@ labels:
 summary: "My First Ruby Experience: Building a Movie Rating App"
 ---
 
-<img class="img-fluid" src="../img/ruby.png">
+<img width="200px" class="img-thumbnail" src="../img/ruby.png">
 
 ## Introduction
 
