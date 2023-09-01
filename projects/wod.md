@@ -38,4 +38,6 @@ Here's the JavaScript code for the challenge:
 
 
 ## Link to project:
-https://jsfiddle.net/omarz33/q7Lz8nk1/21/
+
+<a href="https://jsfiddle.net/omarz33/q7Lz8nk1/21/">Project</a>
+
