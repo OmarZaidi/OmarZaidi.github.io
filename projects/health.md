@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/micromouse/google-forms.png
 title: "An automated health check"
 date: 2015
 published: true
