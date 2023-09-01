@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/codeint.png
+image: img/happy.jpeg
 title: "First WOD of the year"
 date: 2023
 published: true
