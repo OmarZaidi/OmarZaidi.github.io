@@ -10,7 +10,7 @@ labels:
   - Answers
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/intersect.jpeg">
 
 ## Exploring the Intersection of Software Engineering, Car Mechanics, Music, and Ethics
 
