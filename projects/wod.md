@@ -11,7 +11,7 @@ labels:
 summary: "I embarked on my first ICS 314 WOD, where excitement and fear danced hand in hand."
 ---
 <div class="text-center p-4">
-  <img width="200px" src="LINK_TO_YOUR_PHOTO_HERE" class="img-thumbnail">
+  <img width="200px" src="img/coding-challenge.jpg" class="img-thumbnail">
 </div>
 
 ## Coding Challenge
