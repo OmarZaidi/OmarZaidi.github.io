@@ -2,145 +2,113 @@
   "basics": {
     "name": "Omar Zaidi",
     "label": "Student",
-    "email": "omarzaidi22@gmail.com",
-    "website": "linkedin.com/in/omarrzaidi",
-    "summary": "I take pride in my ability to learn quickly and adapt to new sectors. As an IT specialist at Lawrence Berkeley National Laboratory, I work with clients, providing creative solutions to large and small scale needs for project support. While my strongest skills are on the technical side, I enjoy opportunities to aid projects through management and teaching. I aim to better my community and others at large, and plan to complete my degree in computer science/philosophy. By leveraging engineering, business, ethics and finance skills, I hope to reach those in need in the ever technologically oriented future. I enjoy dialogues on just about anything from philosophy to health and music. Feel free to reach out and discuss any of my experiences.",
-    "location": {
-      "address": "",
-      "city": "San Francisco Bay Area",
-      "countryCode": "USA"
-    },
+    "picture": "https://github.com/OmarZaidi.png",
+    "email": "omarz@hawaii.edu",
+    "phone": "",
+    "website": "https://OmarZaidi.github.io",
+    "summary": "I am pursuing a B.S. in Computer Science with a minor in Philosphy at the University of Hawaii Manoa.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "linkedin", "username": "omarrzaidi", "url": "https://linkedin.com/in/omarrzaidi" }
+      { "network": "github", "username": "OmarZaidi", "url": "http://github.com/OmarZaidi" },
+      { "network": "linkedin", "username": "omarrzaidi", "url": "http://linkedin.com/in/omarrzaidi" },
+      { "network": "twitter", "username": "", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "", "url": "http://instagram.com/changeme" }
     ]
   },
-  "experience": [
+  "interests": [
+    { "name": "Technology Ethics" },
+    { "name": "Cyber security" },
+    { "name": "Education" },
+    { "name": "Mechanincs" },
+    { "name": "Sound engineering & Live sound" },
+    { "name": "IT/Devops"}
+  ],
+  "skills": [
     {
-      "position": "Information Technology Specialist / Teacher",
-      "company": "University of Hawaii at Manoa - University Laboratory School",
-      "startDate": "Aug 2023",
-      "endDate": "Present",
-      "summary": "Makerspace Ambassador",
-      "highlights": ["Providing creative solutions to large and small scale needs for project support."]
+      "name": "Languages and Frameworks",
+      "keywords": [ "C++", "Java", "Javascript", "Assembly", "Common Lisp", "Prolog", "Python" ]
     },
     {
-      "position": "Information Technology Coordinator (CRDG)",
-      "company": "University of Hawaii at Manoa",
-      "startDate": "Apr 2023",
-      "endDate": "Jul 2023",
-      "summary": "",
-      "highlights": [""]
-    },
-    {
-      "position": "Instructor & Liaison",
-      "company": "Youth Code Now",
-      "startDate": "Jan 2022",
-      "endDate": "Apr 2023",
-      "summary": "",
-      "highlights": [""]
-    },
-    {
-      "position": "Computer Systems Engineer",
-      "company": "Berkeley Lab",
-      "startDate": "May 2021",
-      "endDate": "Apr 2023",
-      "summary": "Development:\n-Leveraging knowledge JavaScript & HTML to fix bugs in a chrome extension\n-Built a google Appscript to notify endpoints and management of expiring service and passwords\n-Exposure to Ruby on Rails\nTesting/Reporting:\n-Testing various software in different environment to check for compatibilities with local resources.\n-Utilize mail merge send out large scale communications\n-Reported to team and follow up with vendors"
-    },
-    {
-      "position": "Workstation Support Specialist",
-      "company": "Berkeley Lab",
-      "startDate": "Jan 2020",
-      "endDate": "Apr 2023",
-      "summary": "Lawrence Berkeley is a scientific institution with a rich history of innovation.\n*I have been fortunate to provide support to projects such as ALS and the particle accelerator.\n*Installing of several large computing server nodes to be used in critical experiments.\n*Maintenance of internal IT support websites by curating content and design."
-    },
-    {
-      "position": "Information Technology Project Lead",
-      "company": "MarinHealth",
-      "startDate": "Mar 2020",
-      "endDate": "Dec 2020",
-      "summary": "Marin General Health is a premier health service in the north bay.\nDuring my time with MGH, construction on an auxiliary building was underway.\nMy team was responsible for efficient and procedural installations of hospital workstations.\nWe managed the smooth deployment of over 600 workstations while adapting quickly to sudden drastic changes to building plans."
-    },
-    {
-      "position": "IT Consultant/Computer Lab Teacher",
-      "company": "Laurel Elementary School",
-      "startDate": "2014",
-      "endDate": "2015",
-      "summary": "Laurel elementary school is a community of teachers and parents who deeply care about education.\n*Provided friendly support to faculty and students\n*Created/implemented a curriculum for student Pre-K to 5th grade\n*Troubleshoot Mac/Windows software and hardware issues\n*Rolled out new equipment, provisioned existing equipment and updates ensuring product functionality\nI was the Onsite Technician for the school."
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Windows", "Ubuntu", "Git/GitHub", "JAMF", "Google Admin Console" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii at Manoa",
+      "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.S.",
-      "startDate": "Aug 2022",
-      "endDate": "Aug 2024",
-      "courses": []
-    },
-    {
-      "institution": "Contra Costa College",
-      "area": "Computer Science",
-      "studyType": "Associate of Science - AS",
-      "startDate": "Jan 2019",
-      "endDate": "Jan 2021",
-      "courses": []
-    },
-    {
-      "institution": "Contra Costa College",
-      "area": "Liberal Arts and Sciences/Liberal Studies",
-      "studyType": "Associate of Arts - AA",
-      "startDate": "2012",
-      "endDate": "2015",
-      "courses": []
+      "startDate": "2022-08-024",
+      "endDate": "Present",
+      "courses": [
+      ]
     }
   ],
-  "skills": {
-    "Computer Literacy": true,
-    "Critical Thinking": true,
-    "Information Technology": true,
-    "Bilingual Communications": true,
-    "C++": true,
-    "JavaScript": true,
-    "Python (Programming Language)": true,
-    "HTML": true,
-    "Google Docs": true,
-    "Google Suite": true
-  },
-  "honorsAndAwards": [
+  "work": [
     {
-      "title": "Deans List Honor Roll",
-      "date": "Contra Costa College",
-      "summary": "Oct 2020"
+      "company": "University Laboratory School",
+      "position": "IT Specialist",
+      "website": "",
+      "startDate": "2023-07-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
     },
     {
-      "title": "Deans List Honor Roll",
-      "date": "Contra Costa College",
-      "summary": "Mar 2021"
+      "company": "University of Hawaii at Manoa (CRDG)",
+      "position": "IT Coordinator",
+      "website": "",
+      "startDate": "2023-05-01",
+      "endDate": "2023-07-01",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
     },
     {
-      "title": "Packard-Zell Memorial Scholarship",
-      "date": "Contra Costa College",
-      "summary": "Aug 2022"
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     },
     {
-      "title": "Latinos in Tech Scholarship",
-      "date": "Silicon Valley Community Foundation",
-      "summary": "Aug 2022"
-    },
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "references": [
     {
-      "title": "Deans List Honor Roll",
-      "date": "University of Hawaii at Manoa",
-      "summary": "Dec 2022"
-    },
-    {
-      "title": "Osher & Crankstart Reentry Scholarships",
-      "date": "University of Hawaii at Manoa",
-      "summary": "Aug 2022"
-    },
-    {
-      "title": "Pace Scholarship",
-      "date": "Pacific Asian Center for Entrepreneurship",
-      "summary": "Aug 2023"
+      "name": "Available upon request"
     }
   ]
 }
