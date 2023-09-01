@@ -21,5 +21,7 @@ When I first embarked on my journey to learn programming, Ruby was one of the la
 
 The Ruby code I developed serves as a simple movie rating app. It allows users to perform several key actions: adding movies to their collection, updating movie ratings, displaying the entire collection, and deleting movies. Let's dive into how the code achieves these functionalities.
  
-## Find the code here:
-https://github.com/OmarZaidi/movie
+## Link to the project:
+
+<a href="https://github.com/OmarZaidi/movie">Project</a>
+
