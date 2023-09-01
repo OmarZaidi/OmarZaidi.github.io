@@ -20,7 +20,7 @@ Completing my first WOD (Workout of the Day) in the ICS 314 class was like stepp
 
 Here's the JavaScript code for the challenge:
 
-<script type="text/javascript">
+```
         function name() {
             for (let i = 0; i < 100; i++) {
                 if ((i % 6 == 0) && (i % 4 == 0)) {
@@ -34,7 +34,7 @@ Here's the JavaScript code for the challenge:
             }
         }
         name();
-    </script>
+```
 
 
 ## Link to project:
