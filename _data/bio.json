@@ -30,7 +30,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Windows", "Ubuntu", "Git/GitHub", "JAMF", "Google Admin Console ]
     }
   ],
   "education": [
@@ -49,7 +49,7 @@
       "company": "University Laboratory School",
       "position": "IT Specialist",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2023-07-01",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
@@ -61,8 +61,8 @@
       "company": "University of Hawaii at Manoa (CRDG)",
       "position": "IT Coordinator",
       "website": "",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "2023-05-01",
+      "endDate": "2023-07-01",
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
@@ -75,7 +75,7 @@
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
       "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "startDate": "2016-05-01",
       "endDate": "Present",
       "summary": "Lead developer for weather sensing project",
       "highlights": [
