@@ -30,7 +30,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Ubuntu", "Git/GitHub", "JAMF", "Google Admin Console ]
+      "keywords": [ "MacOS", "Windows", "Ubuntu", "Git/GitHub", "JAMF", "Google Admin Console" ]
     }
   ],
   "education": [
