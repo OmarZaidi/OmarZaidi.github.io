@@ -20,20 +20,21 @@ Completing my first WOD (Workout of the Day) in the ICS 314 class was like stepp
 
 Here's the JavaScript code for the challenge:
 
-```javascript
-function name() {
-  for (let i = 0; i < 100; i++) {
-    if ((i % 6 == 0) && (i % 4 == 0)) {
-      console.log("Bert");
-    } else if (i % 6 == 0) {
-      console.log("Ernie");
-    } else if (i % 4 == 0) {
-      console.log("BertErnie");
-    }
-    console.log(i.toString());
-  }
-}
-name();
+<script type="text/javascript">
+        function name() {
+            for (let i = 0; i < 100; i++) {
+                if ((i % 6 == 0) && (i % 4 == 0)) {
+                    console.log("Bert");
+                } else if (i % 6 == 0) {
+                    console.log("Ernie");
+                } else if (i % 4 == 0) {
+                    console.log("BertErnie");
+                }
+                console.log(i.toString());
+            }
+        }
+        name();
+    </script>
 
 
 ## Link to project:
