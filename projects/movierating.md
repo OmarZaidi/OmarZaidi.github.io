@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/ruby.png
 title: "Movie Rating App"
 date: 2019
 published: true
