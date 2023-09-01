@@ -11,7 +11,7 @@
     "profiles": [
       { "network": "github", "username": "OmarZaidi", "url": "http://github.com/OmarZaidi" },
       { "network": "linkedin", "username": "omarrzaidi", "url": "http://linkedin.com/in/omarrzaidi" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
+      { "network": "twitter", "username": "", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "", "url": "http://instagram.com/changeme" }
     ]
   },
@@ -46,8 +46,8 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University Laboratory School",
+      "position": "IT Specialist",
       "website": "",
       "startDate": "2015-08-01",
       "endDate": "Present",
@@ -58,9 +58,9 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
+      "company": "University of Hawaii at Manoa (CRDG)",
+      "position": "IT Coordinator",
+      "website": "",
       "startDate": "2015-01-01",
       "endDate": "2016-03-15",
       "summary": "",
