@@ -12,7 +12,7 @@ labels:
 summary: "This was an attempt to speed up the morning workflow at work during COVID"
 ---
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
+  <img width="200px" src="../img/micromouse/google-forms.png" class="img-thumbnail" >
 </div>
 
 https://github.com/OmarZaidi/PythonFormScript/)https://github.com/OmarZaidi/PythonFormScript/
