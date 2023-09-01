@@ -26,4 +26,4 @@ In essence, this script serves as an accessible introduction to web automation. 
 
 
 ## Link to the project:
-<a href="https://github.com/OmarZaidi/PythonFormScript">
+<a href="https://github.com/OmarZaidi/PythonFormScript">Project</a>
