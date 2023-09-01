@@ -9,7 +9,7 @@ labels:
   - Python
   - Javascript
   - Google Forms
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+summary: "This was an attempt to speed up the morning workflow at work during COVID"
 ---
 <div class="text-center p-4">
   <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
