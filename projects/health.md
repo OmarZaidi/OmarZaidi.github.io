@@ -12,7 +12,7 @@ labels:
 summary: "Basic scripting with python"
 ---
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/google-forms.png" class="img-thumbnail" >
+  <img width="200px" height="200px" src="../img/micromouse/google-forms.png" class="img-thumbnail" >
 </div>
 
 ## Python + Selenium for browser integration
