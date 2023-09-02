@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ruby.png
+image: <img width="200px" class="img-thumbnail" src="../img/ruby.png">
 title: "Movie Rating App"
 date: 2019
 published: true
