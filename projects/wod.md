@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/happy.jpeg
+image: width="200px" height="200px" img/happy.jpeg
 title: "First WOD of the year"
 date: 2023
 published: true
