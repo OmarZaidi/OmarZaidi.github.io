@@ -125,19 +125,40 @@
       ]
     }
   ],
-  "awards": [
+  "awards": 
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
+      "title": "Pace Scholarship",
+      "date": "Pacific Asian Center for Entrepreneurship",
+      "summary": "Aug 2023"
+    },
+    {
+      "title": "Osher & Crankstart Reentry Scholarships",
+      "date": "University of Hawaii at Manoa",
+      "summary": "Aug 2022"
+    },    
+    {
+      "title": "Deans List Honor Roll",
+      "date": "University of Hawaii at Manoa",
+      "summary": "Dec 2022"
+    },
+    {
+      "title": "Latinos in Tech Scholarship",
+      "date": "Silicon Valley Community Foundation",
+      "summary": "Aug 2022"
+    },
+    {
+      "title": "Packard-Zell Memorial Scholarship",
+      "date": "Contra Costa College",
+      "awarder": "Aug 2022",
       "summary": ""
     },
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
+      "title": "Deans List Honor Roll",
+      "date": "Spring and Fall 2020 - 2021",
+      "awarder": "Contra Costa College",
       "summary": ""
     }
+    
   ],
   "references": [
     {
