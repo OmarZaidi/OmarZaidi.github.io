@@ -40,8 +40,15 @@
       "studyType": "B.S.",
       "startDate": "2022-08-024",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": [ ]
+    },
+    {
+      "institution": "Contra Costa Community College, San Pablo, CA",
+      "area": "Computer Science",
+      "studyType": "A.S.",
+      "startDate": "2012-08-024",
+      "endDate": "2021-06-024",
+      "courses": [ ]
     }
   ],
   "work": [
