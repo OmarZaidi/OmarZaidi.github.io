@@ -4,7 +4,7 @@ type: essay
 title: "ESLinting to finish line"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-20
-published: True
+published: False
 labels:
   - Software Engineering
   - Learning
