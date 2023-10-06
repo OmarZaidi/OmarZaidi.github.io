@@ -1,54 +1,61 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "ESLinting to finish line"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
-published: false
+date: 2023-09-20
+published: True
 labels:
-  - Engineering
+  - Software Engineering
+  - Learning
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/igniting/eslint_3.png">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+# The Significance of Coding Standards
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+## Introduction
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+In the world of software development, coding standards are often overlooked as mere nitpicking about indentation and brace placement. However, they are far more than superficial guidelines; coding standards are the linchpin of code quality, maintainability, and the learning process. In this essay, we will explore the true significance of coding standards, their role in enhancing software engineering techniques, and my initial impressions of using ESLint with IntelliJ during the first week.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+## The Importance of Coding Standards
 
-Here's what I think: the difficult things will always be difficult.
+Coding standards are not just about aesthetics; they are about maintaining consistency and clarity in code. They serve as a foundation for several critical aspects of software development.
 
-## In the context of programming
+### 1. Quality Assurance
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+Coding standards act as a quality assurance mechanism. Code that adheres to these standards is less prone to errors, making it easier to identify and rectify bugs. Inconsistent code formatting and style can lead to confusion and costly maintenance in the long run.
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+### 2. Maintainability
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+Well-defined coding standards significantly contribute to code maintainability. When developers need to work on code written by others, adhering to these standards ensures they can quickly understand the code's structure and logic. This reduces the learning curve and minimizes the chances of introducing new errors during maintenance.
 
-## In the context of engineering
+### 3. Collaboration
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+In a team environment, coding standards are essential for effective collaboration. They provide a common framework, ensuring that all team members write code in a uniform manner. This makes it easier to review, integrate, and troubleshoot each other's work, leading to a more cohesive and productive development environment.
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
+## Coding Standards as a Learning Tool
 
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
+Contrary to popular belief, coding standards are not just for experienced developers; they are a powerful learning tool for beginners as well. When newcomers adhere to coding standards, they not only produce more readable code but also absorb essential programming language concepts more effectively.
 
-## In the context of relationships
+### 1. Consistency
 
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
+Coding standards introduce beginners to consistent code structure and formatting. This consistency reduces cognitive load and allows learners to focus on understanding the syntax and semantics of a programming language.
 
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
+### 2. Best Practices
 
-Relationships have always been difficult, and by nature will continue to be so.
+Coding standards often encapsulate best practices. By following these standards, beginners are exposed to industry-approved coding techniques from the beginning. This sets a strong foundation and ensures that they start their programming journey on the right track.
 
-## Okay!
+## ESLint with IntelliJ: First Impressions
 
-So back to the original premise; why is being one of the club officers so difficult?
+After my first week of using ESLint with IntelliJ, I have found it to be both beneficial and enlightening.
 
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
+- **Painful but Necessary**: ESLint can be initially painful, with a barrage of warnings and errors. However, this discomfort is a necessary step in the learning process. It forces developers to confront and rectify code issues they might otherwise overlook.
 
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+- **Useful and Informative**: ESLint's green checkmark is more than a symbol; it signifies code quality and adherence to standards. It serves as a visual indicator of a job well done. Furthermore, ESLint's detailed error messages provide valuable insights into coding mistakes and offer opportunities for improvement.
+
+## Conclusion
+
+In conclusion, coding standards are not to be underestimated. They are the foundation upon which code quality, maintainability, and effective learning are built. Whether you are a beginner or an experienced developer, adhering to coding standards is a crucial step toward producing reliable, maintainable, and bug-free code.
+
+ESLint with IntelliJ, while initially challenging, offers a valuable tool to enforce coding standards and enhance code quality. The slight discomfort it brings is a worthwhile investment, ultimately leading to code that is more reliable, maintainable, and comprehensible. As a software developer, I wholeheartedly agree that if you can only implement one software engineering technique to improve quality, it should indeed be coding standards. They are the silent architects of robust, readable, and bug-free code, guiding developers toward excellence in their craft.
