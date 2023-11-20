@@ -9,7 +9,7 @@ labels:
   - AI
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/mZzG0vn.webp">
+<img width="300px" class="rounded float-start pe-4" src="../img/DALL·E 2023-11-18 17.54.50 - an image of ai robots doing everyones hw.png">
 
 # AI 
 
