@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Ai."
+title: "Ai"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-17
 published: True
@@ -11,53 +11,64 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/mZzG0vn.webp">
 
-# The Power of UI Frameworks: Beyond the Complexity
+# AI 
 
-## Introduction
+## I. Introduction
 
-User Interface (UI) frameworks are powerful tools in the world of web development, offering a structured approach to building visually appealing and responsive websites. However, they can seem daunting to beginners, akin to learning a new programming language. In this essay, we will delve into the reasons why developers should invest their time and effort in mastering UI frameworks like Bootstrap 5, exploring the benefits they offer and addressing the question of whether raw HTML and CSS are sufficient alternatives.
+In the ever-evolving landscape of education, the role of Artificial Intelligence (AI) has become increasingly prominent. This essay explores the specific relevance of AI in the field of Software Engineering, focusing on its application in ICS 314. Throughout the course, various AI tools such as ChatGPT, Bard, and Co-Pilot have played a pivotal role in shaping learning experiences.
 
-## The Complexity Conundrum
+## II. Personal Experience with AI
 
-UI frameworks are often perceived as complex and challenging to learn. Beginners may find themselves overwhelmed with the multitude of classes, components, and customization options. However, it's important to remember that complexity often comes hand in hand with power. UI frameworks are designed to handle a wide range of scenarios and provide comprehensive solutions to common web development challenges.
+### Experience WODs (e.g., E18)
+For the Experience Workouts of the Day (WODs), AI, particularly ChatGPT, has been a valuable resource. When faced with complex coding challenges, I sought assistance from ChatGPT to generate initial code snippets. While the tool was beneficial in providing a starting point, refining the code often required additional trial and error.
 
-### Benefits of Using Bootstrap 5
+### In-class Practice WODs
+In-class practice WODs involving AI tools like Co-Pilot have streamlined collaborative coding efforts. The tool's ability to suggest code completions accelerated the coding process, fostering a more efficient and collaborative environment.
 
-#### 1. Rapid Development
+### Essays
+In crafting essays, AI tools were not extensively utilized. The nature of essay writing required a more personal and reflective approach, which I believed was better achieved without direct AI involvement.
 
-One of the primary advantages of Bootstrap 5 is its ability to accelerate the development process. It offers a wide array of pre-designed components, such as navigation bars, forms, and modals, that can be easily customized and integrated into web projects. This means less time spent on coding repetitive HTML and CSS and more time focusing on functionality and unique design aspects.
+### Final Project
+For the final project, the integration of AI played a limited role. While initial brainstorming sessions involved AI-generated ideas, the majority of the project's execution relied on manual coding and problem-solving skills.
 
+### Learning a Concept/Tutorial
+During the learning process, AI tutorials were occasionally consulted for additional insights. However, a balance was maintained, ensuring that personal understanding and critical thinking were not overshadowed by AI assistance.
 
-<img width="300px" class="rounded float-start pe-4" src="../img/corporate-template.jpg">
+### Asking or Answering Questions
+In both class and Discord interactions, AI was sparingly used. When seeking clarification on a concept, human interaction and discussion were deemed more effective for deeper understanding.
 
+### Coding Examples
+AI, specifically ChatGPT, proved valuable in providing coding examples, especially when tasked with using specific libraries or functions like Underscore's .pluck. The tool's ability to generate relevant examples expedited the learning process.
 
-*Figure 1: A web page built with Bootstrap 5 showcasing its responsive design.*
+### Quality Assurance
+In quality assurance tasks, AI tools were occasionally employed to identify errors in code snippets. While helpful, the human touch was necessary for a comprehensive review of code quality.
 
-#### 2. Responsiveness
+### Other Uses in ICS 314
+Outside the specified course elements, AI found application in brainstorming sessions and ideation, contributing diverse perspectives to problem-solving.
 
-Bootstrap 5 is renowned for its mobile-first approach, ensuring that websites built with it are responsive from the start. This responsiveness is crucial in an era where users access websites on a variety of devices, from smartphones to large desktop monitors. UI frameworks like Bootstrap make it easier to create user interfaces that adapt gracefully to different screen sizes.
+### Overall Reflection
+The use of AI varied across different course elements. While beneficial in generating ideas and code snippets, it often required additional manual refinement. The balance between AI assistance and individual problem-solving skills was crucial in maximizing the learning experience.
 
-#### 3. Consistency and Cross-Browser Compatibility
+## III. Impact on Learning and Understanding
 
-Ensuring a consistent look and behavior across different browsers can be a nightmare when using raw HTML and CSS. UI frameworks, on the other hand, are rigorously tested to work seamlessly on various browsers and devices. This reliability reduces the time spent on browser-specific bug fixes and compatibility issues.
+The incorporation of AI has positively influenced my learning experience in ICS 314. AI tools have expedited certain aspects of the learning process, providing quick insights and examples. However, the depth of understanding was enhanced through a combination of AI assistance and individual exploration.
 
-### The Role of Software Engineering
+## IV. Practical Applications
 
-UI frameworks offer substantial software engineering benefits that extend beyond the surface level of design and development. They contribute to better maintainability, scalability, and collaboration within development teams.
+Beyond the classroom, AI has practical applications in real-world projects, simulations, and collaborative activities such as the Hawaii Annual Code Challenge (HACC). AI's effectiveness in addressing real-world software engineering challenges is evident in its ability to accelerate idea generation and code completion.
 
-#### 1. Maintainability
+## V. Challenges and Opportunities
 
-UI frameworks encourage a structured and modular approach to code. Components can be reused throughout the project, making it easier to maintain and update the website over time. This modularity also enhances code readability, as developers can quickly identify and understand the purpose of each component.
+Challenges encountered include the need for manual refinement of AI-generated content and occasional limitations in addressing complex coding challenges. Opportunities for further integration lie in refining AI algorithms to better understand nuanced coding requirements and providing more targeted assistance.
 
-#### 2. Scalability
+## VI. Comparative Analysis
 
-As a project grows in complexity, UI frameworks like Bootstrap provide a solid foundation for scalability. New features and pages can be added with relative ease, thanks to the framework's consistent structure and pre-designed elements. This scalability is crucial for websites that need to evolve and adapt to changing user needs.
+Comparing traditional teaching methods with AI-enhanced approaches reveals a nuanced landscape. While AI accelerates certain aspects of learning, traditional methods remain crucial for fostering critical thinking, deep comprehension, and effective communication.
 
-### The Alternative: Raw HTML and CSS
+## VII. Future Considerations
 
-While it's possible to create functional websites using raw HTML and CSS, several challenges arise:
+Looking ahead, the future role of AI in software engineering education holds exciting possibilities. Advancements in AI algorithms, coupled with a thoughtful integration strategy, can further enhance learning experiences. However, ethical considerations and potential biases in AI algorithms must be continually addressed.
 
-- **Time-Consuming:** Building a website from scratch with raw HTML and CSS can be time-consuming, especially for complex layouts and components.
-- **Inconsistent Design:** Maintaining a consistent design across all pages can be tricky without a structured framework.
-- **Responsive Design:** Achieving responsive design requires extensive CSS media queries and testing.
-- **Browser Compatibility:** Ensuring cross-browser compatibility can be a constant battle.
+## VIII. Conclusion
+
+In conclusion, the integration of AI in ICS 314 has proven valuable in specific contexts. Striking a balance between AI assistance and traditional learning methods is essential for optimizing the educational experience. The future holds promise for AI in software engineering education, provided careful consideration is given to ethical concerns and continuous improvement of AI algorithms.
