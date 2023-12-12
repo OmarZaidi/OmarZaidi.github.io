@@ -3,10 +3,10 @@ layout: essay
 type: essay
 title: "Reflect on Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2023-09-06
+date: 2023-12-11
 published: true
 labels:
-  - Thinking
+  - Reflect
 ---
 
 <img width="1000px" height="400" class="rounded float-start pe-4" src="../img/socr-sb_orig.png">
