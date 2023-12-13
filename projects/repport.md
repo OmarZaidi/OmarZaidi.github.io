@@ -11,10 +11,6 @@ labels:
 summary: "Repport"
 ---
 
-<img width="200px" class="img-thumbnail" src="../img/reflect.jpeg">
-
-
-
 ## Overview
 
 Welcome to the PHOBS REPPORT App, a solution developed to address the marine debris issue in Hawai’i. This application aims to optimize communication and coordination among organizations involved in marine debris removal.
