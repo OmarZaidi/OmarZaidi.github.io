@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/reflect.jpeg
-title: "Repport"
+title: "PHOBS REPPORT App"
 date: 2023
 published: true
 labels:
@@ -13,13 +13,11 @@ summary: "Repport"
 
 <img width="200px" class="img-thumbnail" src="../img/reflect.jpeg">
 
-# PHOBS REPPORT App
 
-# PHOBS REPPORT App
 
 ## Overview
 
-Aloha! We are PHOBS, and we are excited to introduce our innovative solution to address the marine debris problem in Hawai’i. Our REPPORT App is designed to streamline and enhance the communication and coordination among various organizations involved in marine debris removal.
+Welcome to the PHOBS REPPORT App, a solution developed to address the marine debris issue in Hawai’i. This application aims to optimize communication and coordination among organizations involved in marine debris removal.
 
 ### Project Goals
 
