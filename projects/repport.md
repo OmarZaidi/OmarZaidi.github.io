@@ -13,16 +13,69 @@ summary: "Repport"
 
 <img width="200px" class="img-thumbnail" src="../img/reflect.jpeg">
 
-## Introduction
+# PHOBS REPPORT App
 
-When I first embarked on my journey to learn programming, Ruby was one of the languages that piqued my interest due to its simplicity and elegance. As I delved into the world of coding, I decided to build a basic command-line application in Ruby to manage a collection of movies and their ratings. This endeavor marked my first exposure to the Ruby programming language, and it turned out to be an excellent learning experience.
+## Overview
 
-## The Movie Rating App
+Aloha! We are PHOBS, and we are excited to introduce our innovative solution to address the marine debris problem in Hawai’i. Our REPPORT App is designed to streamline and enhance the communication and coordination among various organizations involved in marine debris removal. We aim to create a centralized database and dispatch system that not only promotes efficient debris removal but also offers a platform for locals to report debris incidents. The ultimate goal of the REPPORT App is to significantly contribute to the preservation of Hawai’i’s natural beauty and marine ecosystems.
 
-The Ruby code I developed serves as a simple movie rating app. It allows users to perform several key actions: adding movies to their collection, updating movie ratings, displaying the entire collection, and deleting movies. Let's dive into how the code achieves these functionalities.
- 
-## Link to the project:
+### Project Goals
 
-<a href="https://github.com/OmarZaidi/movie">Project</a>
+The REPPORT App is designed with the following key goals in mind:
 
+- **Centralized Database:** Create a comprehensive centralized database that serves as the foundation for our system. This database will be accessible to the public in real-time, providing a wealth of valuable information about marine debris management.
+- **Real-time Public Access:** Develop user-friendly features that allow the public to access real-time information about ongoing debris removal efforts, locations, and progress.
+- **Dispatch Communication Tools:** Implement effective communication tools that enable seamless collaboration and coordination among various organizations involved in debris removal. This includes features for instant communication, updates, and task allocation.
+- **Comprehensive Data Capture:** Establish a cradle-to-grave database that captures data at all seven critical steps of marine debris management.
+- **Debris Amount and Proportion Reporting:** Enable the database to generate reports on debris amounts and proportions based on mapped locations, over time, and the efficiency of removal efforts.
+- **Debris Type and Polymer Type Tracking:** Implement features that categorize and track debris types and polymer types.
+- **Disposal Mechanism Data:** Collect and analyze data related to the disposal mechanisms used for removed debris, including recycling options.
 
+### Team Contract and Milestones
+
+- [Team Contract](https://phobs-co.github.io/TeamContract.pdf)
+- [Milestone 1](https://phobs-co.github.io/Milestone1.pdf)
+- [Milestone 2](https://phobs-co.github.io/Milestone2.pdf)
+- [Milestone 3](https://phobs-co.github.io/Milestone3.pdf)
+
+## User Guide
+
+### Public View
+
+Anyone can report debris. To do this, navigate to the homepage and click the “Report Debris” button, which is readily visible in red. You’ll be directed to a form where you can enter information about the debris, such as its type and location. After completing the form, click the Submit button to send your report to the participating organizations for review.
+
+### Account Creation
+
+To make a new account, click on the login dropdown on the top right of the navbar. This allows you to create an account using an email and a password. In the future, you can use these credentials to log into the site.
+
+### Organization View
+
+To view reported debris, organizations must sign in with their organizational login credentials. They can register for the site and create a new user account under their organization’s name. The links for registration are available in the footer under “Organization Sign In” and “Organization Sign Up”.
+
+### Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+
+## Community Feedback
+
+The website is user-friendly with clear navigation cues. Reporting debris is straightforward, offering multiple options. Functionality is effective, and I haven’t encountered issues. It lacks information about the people handling debris cleanup; featuring them could enhance transparency and trust. While images seem sourced from the internet, adding real people associated with the organization could enhance credibility.
+The website’s simplicity aids in easy navigation, efficiently serving its purpose despite its plain design. The debris reporting section is functional, allowing users to specify the location and type of debris, with a focus on smaller items often left by beachgoers. It’s likely that users will predominantly report minor litter issues, such as trash left by beach visitors. There’s a potential for users to utilize the platform to draw attention to irresponsible behavior, like families neglecting to clean up after themselves, creating a sense of accountability. While the website’s primary function is practical, it also serves as a means for users to encourage responsible behavior through reporting.
+This app could be more comprehensive by including everyday trash generated by people, a prevalent issue in popular Hawaiian beaches where individuals often neglect to clean up after themselves. This addition could generate more activity on the website. Collaboration with existing organizations actively cleaning beaches on-site could be beneficial to ensure efficient and timely cleanup. Moreover, organizing the links to these collaborating organizations as part of the user’s profile sign-in, rather than placing them at the bottom of the homepage, would offer more visibility and ease of access, fostering a stronger connection between users and these cleanup efforts.
+The website looks cool, and with a bit of explanation, I understand the concept. However, there’s a flood of similar reports, and it might be repetitive. Also, there could be issues with elderly users who might struggle with the website or app. I suggest adding a phone number for reporting debris. Having the website open 24/7, waiting for reports, might not be efficient.
+The homepage is good, but the paragraph near the turtle picture needs some wording adjustments. The moving pictures could be improved by adding more arrows for better navigation. There seems to be a glitch where the arrows only appear after clicking a direction. The links to each page are okay, but the wording for each page could be clearer. For instance, instead of “Claimed, stored, and distributed,” use terms like “Pending, pickup, and collected” for easier understanding by visitors navigating the site independently.
+
+## Developer Guide
+
+This guide will lead you through the process of downloading, installing, running, and modifying the system for our GitHub public repository.
+
+### Downloading The Repository
+
+1. Start by navigating to the repository on the [GitHub website](https://github.com/phobs-co/repport).
+2. Click on the green ‘Code’ button near the top right of the repository page.
+3. To clone the repository using HTTPS, under “Clone with HTTPS,” click the clipboard.
+4. Open Terminal.
+5. Change the current working directory to the location where you want the cloned directory.
+6. Type `git clone`, and then paste the URL you copied earlier.
+   ```bash
+   $ git clone https://github.com/phobs-co/repport
