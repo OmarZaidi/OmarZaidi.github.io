@@ -9,7 +9,7 @@ labels:
   - Reflect
 ---
 
-<img width="1000px" height="400" class="rounded float-start pe-4" src="../img/socr-sb_orig.png">
+<img width="1000px" height="400" class="rounded float-start pe-4" src="../img/reflect.jpeg">
 
 # Reflections on Software Engineering Beyond Web Development
 
