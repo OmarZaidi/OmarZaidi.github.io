@@ -39,8 +39,6 @@ This project provided valuable insights into real-world collaboration, data mana
   <img src="/img/report.png" style="max-width: 33%; padding: 10px;">  
 </div>
 
-![Image Alt Text](/img//img/report.png)
-
 ### GitHub Organization Page
 
 For those interested in exploring the source code, please visit our [Organization GitHub Page](https://github.com/phobs-co)or(https://github.com/phobs-co/phobs_repport).
