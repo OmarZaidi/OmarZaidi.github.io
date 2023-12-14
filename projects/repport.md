@@ -36,7 +36,7 @@ This project provided valuable insights into real-world collaboration, data mana
 
 ### Screenshots
 
-![Screenshot 1](img/report.png)
+![Screenshot 1](img/repport.png)
 
 
 ### GitHub Organization Page
