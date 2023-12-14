@@ -22,7 +22,6 @@ The REPPORT App is designed with the following key goals in mind:
 - **Centralized Database:** Create a comprehensive centralized database that serves as the foundation for our system.
 - **Real-time Public Access:** Develop user-friendly features that allow the public to access real-time information about ongoing debris removal efforts.
 - **Dispatch Communication Tools:** Implement effective communication tools that enable seamless collaboration among organizations.
-- ...
 
 ### Contributions
 
