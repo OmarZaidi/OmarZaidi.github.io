@@ -39,6 +39,7 @@ This project provided valuable insights into real-world collaboration, data mana
   <img src="img/repport.png" style="max-width: 33%; padding: 10px;">  
 </div>
 
+![Image Alt Text](img/repportcover.jpeg)
 
 ### GitHub Organization Page
 
