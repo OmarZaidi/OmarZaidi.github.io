@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/report.png
+image: img/repportcover.jpeg
 title: "PHOBS REPPORT App"
 date: 2023
 published: true
@@ -36,7 +36,7 @@ This project provided valuable insights into real-world collaboration, data mana
 
 ### Screenshots
 
-![Screenshot 1](img/repport.png)
+![Screenshot 1]("img/repport.png")
 
 
 ### GitHub Organization Page
