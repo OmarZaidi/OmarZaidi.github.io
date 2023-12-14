@@ -35,9 +35,7 @@ The REPPORT App is designed with the following key goals in mind:
 This project provided valuable insights into real-world collaboration, data management, and user authentication challenges. Working on a team project enhanced my understanding of Agile methodologies and the importance of effective communication in a distributed development environment.
 
 ### Screenshots
-
-![Screenshot 1]("img/repport.png")
-
+<img src=""img/repport.png"" style="max-width: 33%; padding: 10px;">
 
 ### GitHub Organization Page
 
