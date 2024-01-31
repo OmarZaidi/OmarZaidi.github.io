@@ -1,13 +1,19 @@
 {
   "basics": {
     "name": "Omar Zaidi",
-    "label": "Student",
+    "label": "IT Coordinator @ University of Hawaii",
     "picture": "https://github.com/OmarZaidi.png",
     "email": "omarz@hawaii.edu",
     "phone": "",
     "website": "https://OmarZaidi.github.io",
-    "summary": "I am pursuing a B.S. in Computer Science with a minor in Philosphy at the University of Hawaii Manoa.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "IT specialist at Lawrence Berkeley National Laboratory with a strong background in project support and problem-solving. Pursuing B.S. in Computer Science/Philosophy at the University of Hawaii Manoa.",
+    "location": { 
+      "address": "United States of America", 
+      "postalCode": "96822", 
+      "city": "Honolulu", 
+      "countryCode": "USA", 
+      "region": "Hawaii" 
+    },
     "profiles": [
       { "network": "github", "username": "OmarZaidi", "url": "http://github.com/OmarZaidi" },
       { "network": "linkedin", "username": "omarrzaidi", "url": "http://linkedin.com/in/omarrzaidi" }
@@ -19,33 +25,41 @@
     { "name": "Education" },
     { "name": "Mechanics" },
     { "name": "Sound engineering & Live sound" },
-    { "name": "IT/Devops"}
+    { "name": "IT/Devops" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C++", "Java", "Javascript", "Assembly", "Common Lisp", "Prolog", "Python" ]
+      "keywords": [ "C++", "Java", "Javascript", "Assembly", "Common Lisp", "Prolog", "Python", "HTML", "Ruby on Rails" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Ubuntu", "Git/GitHub", "JAMF", "Google Admin Console" ]
+      "keywords": [ "MacOS", "Windows", "Ubuntu", "Git/GitHub", "JAMF", "Google Admin Console", "Google Appscript" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2024)",
+      "institution": "University of Hawaii at Manoa",
+      "area": "Computer Science, Philosophy",
       "studyType": "B.S.",
-      "startDate": "2022-08-024",
-      "endDate": "Present",
+      "startDate": "2022-08-01",
+      "endDate": "2024-08-01",
       "courses": [ ]
     },
     {
-      "institution": "Contra Costa Community College, San Pablo, CA",
+      "institution": "Contra Costa College",
       "area": "Computer Science",
       "studyType": "A.S.",
-      "startDate": "2012-08-024",
-      "endDate": "2021-06-024",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "courses": [ ]
+    },
+    {
+      "institution": "Contra Costa College",
+      "area": "Liberal Arts and Sciences/Liberal Studies",
+      "studyType": "A.A.",
+      "startDate": "2012-01-01",
+      "endDate": "2015-12-01",
       "courses": [ ]
     }
   ],
@@ -53,125 +67,24 @@
     {
       "company": "University of Hawaii at Manoa - University Laboratory School",
       "position": "Information Technology Specialist / Teacher",
-      "startDate": "Aug 2023",
+      "startDate": "2023-08-01",
       "endDate": "Present",
-      "summary": "Teaching Computer Science to 11-12 grade while providing support to students and stadff.",
-      "highlights": ["Providing  solutions to large and small scale needs for ULS."]
+      "summary": "Teaching Computer Science to 11-12 grade while providing support to students and staff."
     },
     {
-      "company": "University of Hawaii at Manoa (CRDG)",
-      "position": "IT Coordinator",
-      "website": "",
-      "startDate": "2023-05-01",
+      "company": "Pacific Asian Center for Entrepreneurship",
+      "position": "Makerspace Ambassador",
+      "startDate": "2023-07-01",
+      "endDate": "Present",
+      "summary": "Ambassadorial role in promoting entrepreneurship and innovation."
+    },
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "Information Technology Coordinator (CRDG)",
+      "startDate": "2023-04-01",
       "endDate": "2023-07-01",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
+      "summary": "Coordinated IT projects and solutions at the university."
     },
-     {
-      "position": "Instructor & Liaison",
+    {
       "company": "Youth Code Now",
-      "startDate": "Jan 2022",
-      "endDate": "Apr 2023",
-      "summary": "",
-      "highlights": [""]
-    },
-      {
-      "position": "Workstation Support Specialist",
-      "company": "Berkeley Lab",
-      "startDate": "Jan 2020",
-      "endDate": "Apr 2023",
-      "summary": "Lawrence Berkeley is a scientific institution with a rich history of innovation.\n*I have been fortunate to provide support to projects such as ALS and the particle accelerator.\n*Installing of several large computing server nodes to be used in critical experiments.\n*Maintenance of internal IT support websites by curating content and design."
-    },
-       {
-      "position": "Information Technology Project Lead",
-      "company": "MarinHealth",
-      "startDate": "Mar 2020",
-      "endDate": "Dec 2020",
-      "summary": "Marin General Health is a premier health service in the north bay.\nDuring my time with MGH, construction on an auxiliary building was underway.\nMy team was responsible for efficient and procedural installations of hospital workstations.\nWe managed the smooth deployment of over 600 workstations while adapting quickly to sudden drastic changes to building plans."
-    },
-       {
-      "position": "IT Consultant/Computer Lab Teacher",
-      "company": "Laurel Elementary School",
-      "startDate": "2014",
-      "endDate": "2015",
-      "summary": "Laurel elementary school is a community of teachers and parents who deeply care about education.\n*Provided friendly support to faculty and students\n*Created/implemented a curriculum for student Pre-K to 5th grade\n*Troubleshoot Mac/Windows software and hardware issues\n*Rolled out new equipment, provisioned existing equipment and updates ensuring product functionality\nI was the Onsite Technician for the school."
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Pacific Asian Center for Entrepreneurship (PACE)",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    },
-    {
-      "organization": "Muslim Student Association UH Manoa",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    },
-       {
-      "organization": "Language Roadmap Initiative",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Pace Scholarship",
-      "date": "Pacific Asian Center for Entrepreneurship",
-      "summary": "Aug 2023"
-    },
-    {
-      "title": "Osher & Crankstart Reentry Scholarships",
-      "date": "University of Hawaii at Manoa",
-      "summary": "Aug 2022"
-    },    
-    {
-      "title": "Deans List Honor Roll",
-      "date": "University of Hawaii at Manoa",
-      "summary": "Dec 2022"
-    },
-    {
-      "title": "Latinos in Tech Scholarship",
-      "date": "Silicon Valley Community Foundation",
-      "summary": "Aug 2022"
-    },
-    {
-      "title": "Packard-Zell Memorial Scholarship",
-      "date": "Contra Costa College",
-      "awarder": "Aug 2022",
-      "summary": ""
-    },
-    {
-      "title": "Deans List Honor Roll",
-      "date": "Spring and Fall 2020 - 2021",
-      "awarder": "Contra Costa College",
-      "summary": ""
-    }
-    
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
-}
+      "position": "Instructor & Liaison",
