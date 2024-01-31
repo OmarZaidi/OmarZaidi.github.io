@@ -1,0 +1,234 @@
+{
+  "basics": {
+    "name": "Omar Zaidi",
+    "label": "IT Coordinator @ University of Hawaii",
+    "picture": "https://github.com/OmarZaidi.png",
+    "email": "omarz@hawaii.edu",
+    "phone": "",
+    "website": "https://OmarZaidi.github.io",
+    "summary": "IT specialist at Lawrence Berkeley National Laboratory with a strong background in project support and problem-solving. Pursuing B.S. in Computer Science/Philosophy at the University of Hawaii Manoa.",
+    "location": {
+      "address": "United States of America",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "OmarZaidi",
+        "url": "http://github.com/OmarZaidi"
+      },
+      {
+        "network": "linkedin",
+        "username": "omarrzaidi",
+        "url": "http://linkedin.com/in/omarrzaidi"
+      }
+    ]
+  },
+  "interests": [
+    { "name": "Technology Ethics" },
+    { "name": "Cyber security" },
+    { "name": "Education" },
+    { "name": "Mechanics" },
+    { "name": "Sound engineering & Live sound" },
+    { "name": "IT/Devops" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [
+        "C++",
+        "Java",
+        "Javascript",
+        "Assembly",
+        "Common Lisp",
+        "Prolog",
+        "Python",
+        "HTML",
+        "Ruby on Rails"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [
+        "MacOS",
+        "Windows",
+        "Ubuntu",
+        "Git/GitHub",
+        "JAMF",
+        "Google Admin Console",
+        "Google Appscript"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii at Manoa",
+      "area": "Computer Science, Philosophy",
+      "studyType": "B.S.",
+      "startDate": "2022-08-01",
+      "endDate": "2024-08-01",
+      "courses": []
+    },
+    {
+      "institution": "Contra Costa College",
+      "area": "Computer Science",
+      "studyType": "A.S.",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "courses": []
+    },
+    {
+      "institution": "Contra Costa College",
+      "area": "Liberal Arts and Sciences/Liberal Studies",
+      "studyType": "A.A.",
+      "startDate": "2012-01-01",
+      "endDate": "2015-12-01",
+      "courses": []
+    }
+  ],
+  "work": [
+    {
+      "company": "University of Hawaii at Manoa - University Laboratory School",
+      "position": "Information Technology Specialist / Teacher",
+      "type": "Part-time",
+      "startDate": "2023-08-01",
+      "endDate": "Present",
+      "location": "Honolulu, Hawaii, United States",
+      "summary": "Providing IT support and teaching at the University Laboratory School."
+    },
+    {
+      "company": "Pacific Asian Center for Entrepreneurship",
+      "position": "Makerspace Ambassador",
+      "type": "Internship",
+      "startDate": "2023-07-01",
+      "endDate": "Present",
+      "location": "Honolulu, Hawaii, United States",
+      "summary": "Promoting entrepreneurship and innovation as a Makerspace Ambassador."
+    },
+    {
+      "company": "University of Hawaii at Manoa",
+      "position": "Information Technology Coordinator (CRDG)",
+      "type": "Full-time",
+      "startDate": "2023-04-01",
+      "endDate": "2023-07-01",
+      "location": "Honolulu, Hawaii, United States",
+      "summary": "Coordinated IT projects and solutions at the University of Hawaii."
+    },
+    {
+      "company": "Youth Code Now",
+      "position": "Instructor & Liaison",
+      "type": "Part-time",
+      "startDate": "2022-01-01",
+      "endDate": "2023-04-01",
+      "location": "Richmond, California, United States",
+      "summary": "Instructing and liaising in a program aimed at youth coding education."
+    },
+    {
+      "company": "Berkeley Lab",
+      "position": "Computer Systems Engineer",
+      "type": "Internship",
+      "startDate": "2021-05-01",
+      "endDate": "2023-04-01",
+      "location": "Berkeley, California, United States",
+      "summary": "Worked on development and testing of software, including JavaScript, HTML, and Ruby on Rails applications. Provided support for various IT projects."
+    },
+    {
+      "company": "Berkeley Lab",
+      "position": "Workstation Support Specialist",
+      "type": "Part-time",
+      "startDate": "2020-01-01",
+      "endDate": "2023-04-01",
+      "location": "Berkeley, California, United States",
+      "summary": "Supported scientific projects, installed computing server nodes, and maintained IT support websites."
+    },
+    {
+      "company": "Marin General Hospital",
+      "position": "Information Technology Project Lead",
+      "type": "Contract",
+      "startDate": "2020-03-01",
+      "endDate": "2020-12-01",
+      "location": "Greenbrae, California, United States",
+      "summary": "Led IT projects, including the installation of hospital workstations and adapting to building plan changes."
+    },
+    {
+      "company": "Laurel Elementary School",
+      "position": "IT Consultant/Computer Lab Teacher",
+      "type": "Contract",
+      "startDate": "2014-01-01",
+      "endDate": "2015-12-01",
+      "location": "Oakland, California, United States",
+      "summary": "Provided IT support and computer education to students and staff at Laurel Elementary School."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Pacific Asian Center for Entrepreneurship (PACE)",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Muslim Student Association UH Manoa",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Language Roadmap Initiative",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Pace Scholarship",
+      "date": "Pacific Asian Center for Entrepreneurship",
+      "summary": "Aug 2023"
+    },
+    {
+      "title": "Osher & Crankstart Reentry Scholarships",
+      "date": "University of Hawaii at Manoa",
+      "summary": "Aug 2022"
+    },
+    {
+      "title": "Deans List Honor Roll",
+      "date": "University of Hawaii at Manoa",
+      "summary": "Dec 2022"
+    },
+    {
+      "title": "Latinos in Tech Scholarship",
+      "date": "Silicon Valley Community Foundation",
+      "summary": "Aug 2022"
+    },
+    {
+      "title": "Packard-Zell Memorial Scholarship",
+      "date": "Contra Costa College",
+      "awarder": "Aug 2022",
+      "summary": ""
+    },
+    {
+      "title": "Deans List Honor Roll",
+      "date": "Spring and Fall 2020 - 2021",
+      "awarder": "Contra Costa College",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
